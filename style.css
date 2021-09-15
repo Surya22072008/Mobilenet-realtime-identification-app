@@ -22,6 +22,9 @@
   {
     box-shadow:5px 5px 5px grey;
     font-size: 20px;
+  }
+  .result_para_tag span
+  {
     white-space: pre-line;
   }
   .copy_right_footer 
@@ -41,4 +44,4 @@
     box-shadow:5px 5px 5px grey;
     margin-top: 160px;
   }
- 
+  
